@@ -1,4 +1,4 @@
-# Global `.gitignore`
+# The global `.gitignore`
 
 An exhaustive global `.gitignore` file with 775 rules
 
