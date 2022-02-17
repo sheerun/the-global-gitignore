@@ -10,7 +10,7 @@ curl https://raw.githubusercontent.com/sheerun/the-global-gitignore/main/.gitign
 
 ## Unnecessary things
 
-Global gitignore is created automatically from github's templates. If you feel there is something unnecessary, please create an issue. 
+Global gitignore is created automatically from Github's templates. If you feel there is something unnecessary, please create an issue. 
 
 ## Self-ad
 
