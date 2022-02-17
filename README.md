@@ -4,8 +4,8 @@ An exhaustive global `.gitignore` file with 775 rules
 
 ## Installation
 
-```
-curl https://raw.githubusercontent.com/sheerun/global-gitignore/main/LICENSE > ~/.gitignore
+```bash
+curl https://raw.githubusercontent.com/sheerun/global-gitignore/main/.gitignore > ~/.gitignore
 ```
 
 ## License
