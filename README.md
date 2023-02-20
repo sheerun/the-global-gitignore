@@ -1,6 +1,6 @@
 # The global `.gitignore`
 
-An exhaustive global `.gitignore` file with 775 rules
+An exhaustive global `.gitignore` file with all possible rules
 
 ## Installation
 
